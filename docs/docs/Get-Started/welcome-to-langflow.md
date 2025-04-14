@@ -1,39 +1,42 @@
+<div dir="rtl" style="text-align: right; font-family: Tahoma, sans-serif;">
+
 ---
-title: Welcome to Langflow
+title: خوش‌آمدید به Deeptern
 slug: /
 ---
 
-Langflow is a new, visual framework for building multi-agent and RAG applications. It is open-source, Python-powered, fully customizable, and LLM and vector store agnostic.
+Deeptern یک چارچوب بصری جدید برای ساخت برنامه‌های چندعاملی (multi-agent) و مبتنی بر بازیابی و تولید (RAG) است. این پروژه متن‌باز، مبتنی بر پایتون، کاملاً قابل سفارشی‌سازی و مستقل از مدل‌های زبانی بزرگ (LLM) و ذخیره‌سازهای برداری است.
 
-Its intuitive interface allows for easy manipulation of AI building blocks, enabling developers to quickly prototype and turn their ideas into powerful, real-world solutions.
+رابط کاربری شهودی آن امکان مدیریت آسان بلوک‌های سازنده هوش مصنوعی را فراهم می‌کند و به توسعه‌دهندگان اجازه می‌دهد تا به‌سرعت ایده‌های خود را نمونه‌سازی کرده و به راهکارهای قدرتمند و واقعی تبدیل کنند.
 
-Langflow empowers developers to rapidly prototype and build AI applications with its user-friendly interface and powerful features. Whether you're a seasoned AI developer or just starting out, Langflow provides the tools you need to bring your AI ideas to life.
+Deeptern به توسعه‌دهندگان قدرت می‌دهد تا با استفاده از رابط کاربری کاربرپسند و قابلیت‌های قدرتمند آن، به‌سرعت برنامه‌های هوش مصنوعی را نمونه‌سازی و پیاده‌سازی کنند. چه یک توسعه‌دهنده با‌تجربه در حوزه‌ی هوش مصنوعی باشید و چه تازه شروع کرده باشید، Deeptern ابزارهای لازم برای زنده‌کردن ایده‌هایتان را فراهم می‌کند.
 
-## Visual flow builder
+## سازنده جریان بصری (Visual flow builder)
 
-Langflow is an intuitive visual flow builder. This drag-and-drop interface allows developers to create complex AI workflows without writing extensive code. You can easily connect different components, such as prompts, language models, and data sources, to build sophisticated AI applications.
+Deeptern یک سازنده جریان بصری شهودی است. این رابط کشیدن و رها کردن (drag-and-drop) به توسعه‌دهندگان اجازه می‌دهد تا بدون نیاز به نوشتن کد زیاد، جریان‌های پیچیده هوش مصنوعی بسازند. شما می‌توانید به‌راحتی اجزای مختلف مانند پرامپت‌ها، مدل‌های زبانی و منابع داده را به هم متصل کرده و برنامه‌های پیشرفته‌ای ایجاد کنید.
 
 ![Langflow in action](/img/playground-response.png)
 
-## Use cases
+## موارد استفاده
 
-Langflow can be used for a wide range of AI applications, including:
+Deeptern می‌تواند در طیف گسترده‌ای از برنامه‌های هوش مصنوعی مورد استفاده قرار گیرد، از جمله:
 
-* [Craft intelligent chatbots](/memory-chatbot)
-* [Build document analysis systems](/document-qa)
-* [Generate compelling content](/blog-writer)
-* [Orchestrate multi-agent applications](/starter-projects-simple-agent)
+* [ایجاد چت‌بات‌های هوشمند](/memory-chatbot)
+* [ساخت سیستم‌های تحلیل اسناد](/document-qa)
+* [تولید محتوای جذاب](/blog-writer)
+* [هماهنگی برنامه‌های چندعاملی](/starter-projects-simple-agent)
 
-## Community and support
+## جامعه و پشتیبانی
 
-Join Langflow's vibrant community of developers and AI enthusiasts. See the following resources to join discussions, share your projects, and get support:
+به جامعه پرشور توسعه‌دهندگان و علاقه‌مندان به هوش مصنوعی Deeptern بپیوندید. از منابع زیر برای مشارکت در بحث‌ها، به اشتراک‌گذاری پروژه‌ها و دریافت پشتیبانی استفاده کنید:
 
-* [Contribute to Langflow](contributing-how-to-contribute)
-* [Langflow Discord Server](https://discord.gg/EqksyE2EX9)
-* [@langflow_ai](https://twitter.com/langflow_ai) 
+* [مشارکت در توسعه Deeptern](contributing-how-to-contribute)
+* [سرور دیسکورد Deeptern](https://discord.gg/EqksyE2EX9)
+* [@deeptern_ai در توییتر](https://twitter.com/langflow_ai) 
 
-## Get started with Langflow
+## شروع کار با Deeptern
 
-- [Install Langflow](/get-started-installation)
-- [Quickstart](/get-started-quickstart)
+- [نصب Deeptern](/get-started-installation)
+- [شروع سریع](/get-started-quickstart)
 
+</div>
